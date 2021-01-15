@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7e3014d-8708-4abc-bb47-b983d100422b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kDfnIoIEq42Ok23egxXiNP2CFE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\RauSach\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Binh bong\Desktop\webShop\RauSach\styles" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Trang_Chu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/RauSach/Trang_Chu.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Trang_Chu.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e3014d-8708-4abc-bb47-b983d100422b" name="Default Changelist" comment="" />
+      <created>1605240247219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605240247219</updated>
+      <workItem from="1605240248282" duration="3447000" />
+      <workItem from="1605250149556" duration="13457000" />
+      <workItem from="1605360990106" duration="8736000" />
+      <workItem from="1605403165375" duration="12433000" />
+      <workItem from="1605535757022" duration="6312000" />
+      <workItem from="1605579759627" duration="1736000" />
+      <workItem from="1605596168100" duration="7833000" />
+      <workItem from="1605606285631" duration="3144000" />
+      <workItem from="1605624350323" duration="5570000" />
+      <workItem from="1605633336665" duration="390000" />
+      <workItem from="1605662956219" duration="4449000" />
+      <workItem from="1605685114376" duration="10242000" />
+      <workItem from="1605713619194" duration="599000" />
+      <workItem from="1605714261803" duration="820000" />
+      <workItem from="1605748899583" duration="12460000" />
+      <workItem from="1605769108837" duration="11917000" />
+      <workItem from="1605781542112" duration="503000" />
+      <workItem from="1605791239072" duration="1862000" />
+      <workItem from="1605838866444" duration="7548000" />
+      <workItem from="1605922111250" duration="7568000" />
+      <workItem from="1605945781722" duration="8830000" />
+      <workItem from="1606008384858" duration="8101000" />
+      <workItem from="1606113641855" duration="12889000" />
+      <workItem from="1606147621510" duration="1314000" />
+      <workItem from="1606180481665" duration="23530000" />
+      <workItem from="1606354981569" duration="25173000" />
+      <workItem from="1606401717177" duration="7078000" />
+      <workItem from="1606439789294" duration="23353000" />
+      <workItem from="1606527206725" duration="12664000" />
+      <workItem from="1606547287760" duration="4740000" />
+      <workItem from="1606572275118" duration="4914000" />
+      <workItem from="1606618787974" duration="283000" />
+      <workItem from="1606659791148" duration="8356000" />
+      <workItem from="1606699194792" duration="20544000" />
+      <workItem from="1606788816643" duration="6979000" />
+      <workItem from="1606875560931" duration="686000" />
+      <workItem from="1607397985788" duration="210000" />
+      <workItem from="1610159418934" duration="6205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605603141814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="456" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1605603141814" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1606877345897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606877345897" />
+    <state x="155" y="17" key="SettingsEditor" timestamp="1605694108232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="155" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605694108232" />
+    <state x="404" y="105" width="540" height="524" key="StructurePopup" timestamp="1606448739856">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="105" width="540" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1606448739855" />
+    <state x="28" y="334" key="run.anything.popup" timestamp="1605369312222">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="28" y="334" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605369312222" />
+    <state x="549" y="49" key="search.everywhere.popup" timestamp="1605601238875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="549" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605601238875" />
+  </component>
+</project>
